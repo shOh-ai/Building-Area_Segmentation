@@ -1,3 +1,3 @@
 # Building-Area_Segmentation
 
-## Project Objectives: Building Area Segmentation from Satellite Image
+Project Objectives: Building Area Segmentation from Satellite Image
